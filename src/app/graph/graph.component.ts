@@ -1,5 +1,8 @@
 import { Component, OnInit } from '@angular/core';
 // import * as Plotly from 'plotly.js/dist/plotly.js';
+import Plotly from 'plotly.js-dist';
+
+// declare var Plotly: any;
 
 @Component({
   selector: 'app-graph',
