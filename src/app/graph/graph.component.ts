@@ -1,7 +1,11 @@
 import { Component, OnInit } from '@angular/core';
 // import * as Plotly from 'plotly.js/dist/plotly.js';
+
+// Importing as a cdn also works correctly
+// I had to change target to es5 for this to work
 import Plotly from 'plotly.js-dist';
 
+// Little trick for Typescript if I use the cdn script version
 // declare var Plotly: any;
 
 @Component({
