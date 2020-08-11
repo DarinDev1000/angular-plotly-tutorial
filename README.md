@@ -2,10 +2,10 @@
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 9.0.7.
 
-## References for issues
-`https://github.com/plotly/plotly.js/issues/3518`
-
 ![screenshot1.png](screenshot1.png)
+
+## References for issues
+https://github.com/plotly/plotly.js/issues/3518
 
 ## Development server
 
